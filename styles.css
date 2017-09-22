@@ -1,0 +1,7 @@
+.image-viewer {
+  border: 1px grey solid;
+  margin: 3rem auto;
+  min-height: 90vh;
+  padding: 0;
+  width: 90vw;
+}
